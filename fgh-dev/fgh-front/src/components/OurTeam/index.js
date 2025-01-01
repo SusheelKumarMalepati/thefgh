@@ -40,8 +40,8 @@ const OurTeam = () => (
                 <div className="founder-contact">
                     <h5>Contact</h5>
                     <div className="profile-contact">
-                        <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer">
-                        <CiLinkedin className="icicon-our-teamon"/>
+                        <a href="https://www.linkedin.com/company/thefgh/" target="_blank" rel="noopener noreferrer">
+                        <CiLinkedin className="icon-our-team"/>
                         </a>
                         <a href="mailto:creator.prasad@gmail.com">
                         <CiMail className="icon-our-team"/>

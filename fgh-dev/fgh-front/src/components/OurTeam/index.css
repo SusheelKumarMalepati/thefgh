@@ -76,18 +76,22 @@
     width: 85%;
   }
   
-  .profile-contact a {
+  /* .profile-contact a {
     margin-right: 10px;
-  }
+  } */
   
   .icon-our-team{
     color: #4379D5;
-    font-size: 20px;
-    margin-right: 2px;
+    font-size: 24px;
 }
 .profile-bottom{
     display: flex;
+    align-items: center;
 }
+.founder-contact{
+  margin-left: 20px;
+}
+
 .founder-contact h5{
     margin: 0;
 }

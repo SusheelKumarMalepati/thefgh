@@ -77,7 +77,7 @@ class ContactUs extends Component{
                     <h1>Get in Touch with Us</h1>
                     <p>We’re here to help. Let us know how we can assist you</p>
                     <div>
-                        <a href="#" className="icon">
+                        <a href="https://www.linkedin.com/company/thefgh/" target="_blank" rel="noreferrer">
                             <CiLinkedin className="icon-1"/>
                         </a>
                         <a href="#" className="">
